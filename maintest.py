@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate  # type: ignore
 from langchain.chains import LLMChain  # type: ignore
 from langchain_openai import OpenAI  # type: ignore
 
-api_key = "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"
+# api_key = ""
 llm = OpenAI(
     openai_api_key=api_key,                   
     )
