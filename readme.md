@@ -49,4 +49,5 @@ print(generate_numbers()) # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 {
     'subject': 'snow',
     'text': "\n\nSoft flakes falling down\nCovering the ground in
-    white\nWinter's magic show."}
+    white\nWinter's magic show."
+}
