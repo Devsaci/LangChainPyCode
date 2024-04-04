@@ -25,6 +25,5 @@ The meaning of life is a philosophical question that has been debated throughout
 
 pip install -U langchain-openai
 python main.py
-output : {'language': 'python', 'task': 'return a list of numbers from 1 to 10', 'text': '\n\ndef return_list():\n 
+output : {'language': 'python', 'task': 'return a list of numbers from 1 to 10', 'text': '\n\ndef return_list():\n
    return [1,2,3,4,5,6,7,8,9,10]'}
-
