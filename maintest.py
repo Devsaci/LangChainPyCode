@@ -5,7 +5,7 @@ from langchain_openai import OpenAI  # type: ignore
 
 
 llm = OpenAI(
-    openai_api_key="",                   
+                      
     )
 poem_prompt = PromptTemplate(
     input_variables=["subject"],
