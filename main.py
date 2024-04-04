@@ -1,8 +1,3 @@
-# pip install pipenv
-# pipenv install
-# pipenv shell
-# pipenv run python main.py
+from langchain.llms import OpenAI   
 
-print("Hello Python")
-
-print("Hi Python")
+api_key = "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"
