@@ -10,6 +10,7 @@ llm = OpenAI(
 
 code_prompt = PromptTemplate(
     template = "write  a very simple {language} function that will return {task} ",
+    input_variables = ["language", "task"]
 )
 result = llm("What is the meaning of life?")
 print(result)
