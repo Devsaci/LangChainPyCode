@@ -12,5 +12,10 @@ code_prompt = PromptTemplate(
     template = "write  a very simple {language} function that will return {task} ",
     input_variables = ["language", "task"]
 )
+
+code_chain = LLMChain(
+    
+)
+
 result = llm("What is the meaning of life?")
 print(result)
