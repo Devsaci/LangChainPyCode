@@ -41,8 +41,8 @@ print(generate_numbers()) # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 {
     'subject': 'snow',
     'text': '\n\nGentle flakes fall from the sky\nSoftly
-    covering the world in white\nA winter wonderland,
-     oh so divine\nSnow, a magical sight, so sublime.'
+            covering the world in white\nA winter wonderland,
+            oh so divine\nSnow, a magical sight, so sublime.'
 }
 
 # 2 python maintest.py
@@ -50,5 +50,5 @@ print(generate_numbers()) # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 {
     'subject': 'snow',
     'text': "\n\nSoft flakes falling down\nCovering the ground in
-    white\nWinter's magic show."
+            white\nWinter's magic show."
 }
