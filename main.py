@@ -14,6 +14,7 @@ code_prompt = PromptTemplate(
 )
 
 code_chain = LLMChain(
+    llm = llm,
     
 )
 
