@@ -24,4 +24,4 @@ result = code_chain({
     "task": "return a list of numbers from 1 to 10"
     })
 
-print(result)
+print(result["text"])

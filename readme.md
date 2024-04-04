@@ -27,3 +27,11 @@ pip install -U langchain-openai
 python main.py
 output : {'language': 'python', 'task': 'return a list of numbers from 1 to 10', 'text': '\n\ndef return_list():\n
    return [1,2,3,4,5,6,7,8,9,10]'}
+
+print(result["text"]) --> def generate_numbers():
+    numbers = []
+    for i in range(1, 11):
+        numbers.append(i)
+    return numbers
+
+print(generate_numbers()) # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
