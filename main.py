@@ -18,5 +18,9 @@ code_chain = LLMChain(
     prompt = code_prompt
 )
 
-result = llm("What is the meaning of life?")
+result = code_chain({
+    "language": "python", 
+    "task": "return a list of numbers from 1 to 10"
+    })
+
 print(result)
