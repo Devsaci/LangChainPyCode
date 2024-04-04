@@ -6,3 +6,4 @@ llm = OpenAI(
     openai_api_key=api_key,                   
     )
 result = llm("What is the meaning of life?")
+print(result)
