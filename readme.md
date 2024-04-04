@@ -12,3 +12,7 @@ Alternatively, run a command inside the virtualenv with pipenv run.
 # pipenv shell command
 
 1. pipenv shell
+
+# API_Key
+
+langChhain_APIkey = "sk-wkIIOBtzrKSJ3NoDc4YZT3BlbkFJ2NSms0YQDFLEuhE6cEVZx"
