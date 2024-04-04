@@ -15,4 +15,4 @@ Alternatively, run a command inside the virtualenv with pipenv run.
 
 # API_Key
 
-langChhain_APIkey = "sk-wkIIOBtzrKSJ3NoDc4YZT3BlbkFJ2NSms0YQDFLEuhE6cEVZx"
+langChhain_APIkey = "sk-u96VRCJZ4je8khWVbrFMT3BlbkFJ0qgig6ADDaUdP4PR3UuNx"
