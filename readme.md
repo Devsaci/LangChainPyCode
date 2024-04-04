@@ -1,5 +1,5 @@
 
-# pipenv install cammond
+# pipenv install command
 
 1. Creating a virtualenv for this project
 Successfully created virtual environment!
@@ -8,3 +8,7 @@ Updated Pipfile.lock
 2. Installing dependencies from Pipfile.lock
 To activate this project's virtualenv, run pipenv shell.
 Alternatively, run a command inside the virtualenv with pipenv run.
+
+# pipenv shell command
+
+1. pipenv shell
