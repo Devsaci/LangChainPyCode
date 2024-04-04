@@ -3,10 +3,10 @@ from langchain.prompts import PromptTemplate  # type: ignore
 from langchain.chains import LLMChain  # type: ignore
 from langchain_openai import OpenAI  # type: ignore
 
-# api_key = ""
+
 
 llm = OpenAI(
-    openai_api_key=api_key,                   
+    openai_api_key="",                   
     )
 
 code_prompt = PromptTemplate(
