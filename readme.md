@@ -36,16 +36,17 @@ print(result["text"]) --> def generate_numbers():
 
 print(generate_numbers()) # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-# python maintest.py
+# 1 python maintest.py
 
-    {
+{
     'subject': 'snow',
     'text': '\n\nGentle flakes fall from the sky\nSoftly
     covering the world in white\nA winter wonderland,
      oh so divine\nSnow, a magical sight, so sublime.'
-     }
+}
 
-     python maintest.py
+# 2 python maintest.py
+
 {
     'subject': 'snow',
     'text': "\n\nSoft flakes falling down\nCovering the ground in
