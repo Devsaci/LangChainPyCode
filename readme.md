@@ -22,3 +22,5 @@ langChhain_APIkey = "sk-u96VRCJZ4je8khWVbrFMT3BlbkFJ0qgig6ADDaUdP4PR3UuNx"
 The meaning of life is a philosophical question that has been debated throughout history. It is the ultimate question that seeks to understand the purpose and significance of human existence. Some believe that the meaning of life is to find happiness, others believe it is to fulfill a certain destiny or purpose, and some believe it is to achieve spiritual enlightenment. Ultimately, the meaning of life is a subjective concept that can vary from person to person.
 
 # 12. Adding a Chain
+
+pip install -U langchain-openai
